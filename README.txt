@@ -10,6 +10,6 @@
 
 Version 2.0.0 
 
-https://github.com/alejandropiuryp/dp2-G25-D02.git
+https://github.com/antoniope33/dp2-G25-D04.git
 
-This is Acme Planner, a project in D&T.
+This is Acme Work-Plans , a project in D&T.
