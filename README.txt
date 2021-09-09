@@ -12,10 +12,10 @@ Version 2.0.0
 
 https://github.com/antoniope33/dp2-G25-D04.git
 
-Release v1.0.0
+Release v1.0.1
 
-https://github.com/antoniope33/dp2-G25-D04/releases/tag/v1.0.0
+https://github.com/antoniope33/dp2-G25-D04/releases/tag/v1.0.1
 
-This is Acme Work-Plans , a project in D&T.
+This is Acme Work-Plans, a project in D&T.
 
 Este proyecto es el proyecto del grupo G32 entregado en Junio. Se han realizado las modificaciones pertinentes para el entregable de Septiembre. 
